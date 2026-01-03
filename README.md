@@ -1,8 +1,4 @@
-# WFG-Consultoria-em-Seguran-a-do-Trabalho
-index.html
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
+
     <meta charset="UTF-8">
     <title>WFG-Consultoria em Segurança do Trabalho</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
