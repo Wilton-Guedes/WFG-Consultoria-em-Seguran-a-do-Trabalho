@@ -52,14 +52,5 @@ index.html
 
 </body>
 </html>
-/wfg-consultoria
- ├── index.html
- ├── style.css
- └── images
-      ├── foto1.jpg
-      ├── foto2.png
-      └── trabalho.jpg
-<img src="images/trabalho.jpg" alt="Trabalho em Segurança do Trabalho">
-Trabalho-Seguranca.JPG
-<img src="images/Trabalho-Seguranca.JPG">
+
 
